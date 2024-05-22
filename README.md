@@ -1,6 +1,6 @@
 # Olá! Seja muito bem vindo 👋
 
-- Me chamo **Leonardo Maciel** e sou um desenvolvedor ***Front-End Jr***
+- Me chamo **Leonardo Maciel** e sou um estudante de programação focado em desenvolvimento ***Front-End***
 --------------
 ![Leonardo-Maciel-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Maciel-S&show_icons=true&theme=tokyonight)
 
