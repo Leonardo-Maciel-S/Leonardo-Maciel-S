@@ -12,10 +12,21 @@
     ></img>
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
     ></img>
+    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+    ></img>
+    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+    ></img>
+
 </div>
+<br>
+
+## Sobre mim
+
+- Cursando 3ª semestre de Análise e Desenvolvimento de sistemas, atualmente trabalho como Analista de suporte em um provedor de internet da minha cidade.
+- Estou em busca de entrar no mercado de trabalho do desenvolvimento web, tenho conhecimentos intermediário em HTML, CSS e realizando cursos de JAVASCRIPT.
+- Nesse perfil posto meus projetos pessoais onde desenvolvo para aprimorar e obter novos conhecimentos profissionais 😁
+
 
 ### Rede Social
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-maciel-s/)
-
-### 
