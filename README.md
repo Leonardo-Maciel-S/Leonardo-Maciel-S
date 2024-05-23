@@ -2,7 +2,7 @@
 
 - Me chamo **Leonardo Maciel** e sou um estudante de programação focado em desenvolvimento ***Front-End***
 --------------
-![Leonardo-Maciel-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Maciel-S&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leonardo-Maciel-S&theme=tokyonight&border_radius=20&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
 
 ## Tecnologias Utilizadas
 
