@@ -1,6 +1,6 @@
 # Olá! Seja muito bem vindo 👋
 
-- Me chamo **Leonardo Maciel** e sou um estudante de programação focado em desenvolvimento ***Front-End***
+- Me chamo **Leonardo Maciel** e sou estudante de programação focado em desenvolvimento ***Front-End***
 --------------
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leonardo-Maciel-S&theme=tokyonight&border_radius=20&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
 
@@ -22,8 +22,8 @@
 
 ## Sobre mim
 
-- Cursando 3ª semestre de Análise e Desenvolvimento de sistemas, atualmente trabalho como Analista de suporte em um provedor de internet da minha cidade.
-- Estou em busca de entrar no mercado de trabalho do desenvolvimento web, tenho conhecimentos intermediário em HTML, CSS e realizando cursos de JAVASCRIPT.
+- Cursando 3ª semestre de Análise e Desenvolvimento de sistemas, atualmente trabalho como Analista de Suporte em um provedor ISP da minha cidade.
+- Estou em busca de entrar no mercado de trabalho do desenvolvimento web, tenho conhecimentos intermediário em HTML, CSS e me aprimorando em JAVASCRIPT.
 - Nesse perfil posto meus projetos pessoais onde desenvolvo para aprimorar e obter novos conhecimentos profissionais 😁
 
 
