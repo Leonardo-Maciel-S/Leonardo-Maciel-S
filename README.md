@@ -3,7 +3,7 @@
 
 <div style='display: flex; align-items: center;'>
 
-<ul aling="right" width='200px' >
+<ul aling="right">
     <li>
         Me chamo <strong>Leonardo Maciel</strong> e sou estudante de programação focado em desenvolvimento <strong>Front-End</strong>
     </li>
@@ -15,7 +15,8 @@
 
 </ul>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="40%"  min-width="400px">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="50%"  min-width="400px">
+
 </div>
 
 
@@ -44,7 +45,7 @@
 
 - HTML :white_check_mark:	
 - CSS :white_check_mark:
-- JavaScript :recycle:
+- JavaScript 
 - TypeScript :lock:
 - Angular :lock:
 
