@@ -1,21 +1,23 @@
 # Olá! Seja muito bem vindo 👋
 
 
-<div style='display: flex; align-items: center;'>
+<div style='display: flex; align-items: center; flex-wrap: wrap'>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador"  min-width="200px" width="400px" align="right">
 
 <ul aling="right">
     <li>
         Me chamo <strong>Leonardo Maciel</strong> e sou estudante de programação focado em desenvolvimento <strong>Front-End</strong>
     </li>
     <li>
-    Cursando 3ª semestre de Análise e Desenvolvimento de sistemas, atualmente trabalho como Analista de Suporte em um provedor ISP da minha cidade.
+        Cursando 3ª semestre de Análise e Desenvolvimento de sistemas, 
+        atualmente trabalho como Analista de Suporte em um provedor ISP da minha cidade.
     </li>
     <li>
     E ansioso pela minha primeira oportunidade no mundo do desenvolvimento Web</li>
 
 </ul>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="50%"  min-width="400px">
 
 </div>
 
