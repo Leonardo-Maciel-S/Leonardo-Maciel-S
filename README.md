@@ -39,19 +39,30 @@
 
 ## Sobre mim
 
-
 - Estou em busca de entrar no mercado de trabalho do desenvolvimento web, tenho conhecimentos intermediário em HTML, CSS e me aprimorando em JAVASCRIPT.
+- Sempre interessado em aprender mais, busco em qualquer oportunidade adquirir conhecimento tanto específico quanto de caráter geral.
+- Ótimo desempenho individual e facilidade em trabalho de grupo.
+- Aprendizagem rápida.
+- Total interesse no crescimento do meu local de trabalho, pois se a empresa crescer eu cresço junto profissionalmente.
+- Responsável e com espirito de liderança
 - Nesse perfil posto meus projetos pessoais onde desenvolvo para aprimorar e obter novos conhecimentos profissionais 😁
 
 ## Plano de Estudo
 
 - HTML :white_check_mark:	
 - CSS :white_check_mark:
-- JavaScript 
+- JavaScript: Meu foco atual
 - TypeScript :lock:
 - Angular :lock:
 
 
-### Rede Social
+### Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-maciel-s/)
+<div style="display: flex; gap: 20px;">
+    <a href='https://www.linkedin.com/in/leonardo-maciel-s/'>
+        <img align="center" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></img>
+    </a>
+    <a href="https://www.instagram.com/sr.maciel?igsh=MWZqMnI0OXQ0OGo4bg==">
+        <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>
+    </a>
+</div>
