@@ -65,4 +65,7 @@
     <a href="https://www.instagram.com/sr.maciel?igsh=MWZqMnI0OXQ0OGo4bg==">
         <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>
     </a>
+    <a href="https://www.youtube.com/@DevXamanX">
+        <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></img>
+    </a>
 </div>
