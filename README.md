@@ -10,7 +10,7 @@
         Me chamo <strong>Leonardo Maciel</strong> e sou estudante de programação focado em desenvolvimento <strong>Front-End</strong>
     </li>
     <li>
-        Cursando 3ª semestre de Análise e Desenvolvimento de sistemas, 
+        Cursando 4ª semestre de Análise e Desenvolvimento de sistemas, 
         atualmente trabalho como Analista de Suporte em um provedor ISP da minha cidade.
     </li>
     <li>
