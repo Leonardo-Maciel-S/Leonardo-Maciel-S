@@ -52,8 +52,8 @@
 - HTML :white_check_mark:	
 - CSS :white_check_mark:
 - JavaScript: Meu foco atual
+- React :lock:
 - TypeScript :lock:
-- Angular :lock:
 
 
 ### Redes Sociais
