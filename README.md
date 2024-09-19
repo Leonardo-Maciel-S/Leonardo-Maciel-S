@@ -11,7 +11,7 @@
     </li>
     <li>
         Cursando 4ª semestre de Análise e Desenvolvimento de sistemas, 
-        atualmente trabalho como Analista de Suporte em um provedor ISP da minha cidade.
+        atualmente trabalho oficialmente como Analista de Suporte em um provedor ISP da minha cidade, porem também desenvolvo nesse provedor. Sou responsável pela front end de uma aplicação de sistema interno que estou desenvolvendo com colega de trabalho.
     </li>
     <li>
     E ansioso pela minha primeira oportunidade no mundo do desenvolvimento Web</li>
