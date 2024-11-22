@@ -7,14 +7,14 @@
 
 <ul aling="right">
     <li>
-        Me chamo <strong>Leonardo Maciel</strong> e sou estudante de programação focado em desenvolvimento <strong>Front-End</strong>
+        Me chamo <strong>Leonardo Maciel</strong> e sou programador junior focado em desenvolvimento <strong>Front-End</strong>
     </li>
     <li>
-        Cursando 4ª semestre de Análise e Desenvolvimento de sistemas, 
+        Finalizando 4ª semestre de Análise e Desenvolvimento de sistemas, 
         atualmente trabalho oficialmente como Analista de Suporte em um provedor ISP da minha cidade, porem também desenvolvo nesse provedor. Sou responsável pelo front end de uma aplicação de sistema interno que estou desenvolvendo com um colega de trabalho utilizando React, Tailwind e algumas bibliotecas do Js.
     </li>
     <li>
-    E ansioso pela minha primeira oportunidade no mundo do desenvolvimento Web</li>
+    E ansioso pela minha primeira oportunidade focada no mundo do desenvolvimento Web</li>
 
 </ul>
 
