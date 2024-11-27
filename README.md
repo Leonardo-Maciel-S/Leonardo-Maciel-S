@@ -43,7 +43,8 @@
 
 ## Sobre mim
 
-- Estou em busca de entrar no mercado de trabalho do desenvolvimento web, tenho conhecimentos intermediário em HTML, CSS e me aprimorando em JAVASCRIPT.
+- Atualmenete estudando React js.
+- Estou em busca de entrar no mercado de trabalho do desenvolvimento web, tenho conhecimentos intermediário em HTML, CSS e JAVASCRIPT.
 - Sempre interessado em aprender mais, busco em qualquer oportunidade adquirir conhecimento tanto específico quanto de caráter geral.
 - Ótimo desempenho individual e facilidade em trabalho de grupo.
 - Aprendizagem rápida.
@@ -71,5 +72,8 @@
     </a>
     <a href="https://www.youtube.com/@DevXamanX">
         <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></img>
+    </a>
+        <a href="https://x.com/devXamanX">
+        <img align="center" alt="instagram" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img>
     </a>
 </div>
