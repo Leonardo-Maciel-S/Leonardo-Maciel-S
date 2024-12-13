@@ -44,7 +44,7 @@
 ## Sobre mim
 
 - Atualmenete estudando React js.
-- Estou em busca de entrar no mercado de trabalho do desenvolvimento web, tenho conhecimentos intermediário em HTML, CSS e JAVASCRIPT.
+- Estou em busca de entrar no mercado de trabalho do desenvolvimento web, tenho conhecimentos intermediário em HTML, CSS, JAVASCRIPT e REACT.
 - Sempre interessado em aprender mais, busco em qualquer oportunidade adquirir conhecimento tanto específico quanto de caráter geral.
 - Ótimo desempenho individual e facilidade em trabalho de grupo.
 - Aprendizagem rápida.
@@ -54,12 +54,14 @@
 
 ## Plano de Estudo
 
+- Lógica de programação: :white_check_mark:
 - HTML :white_check_mark:	
 - CSS :white_check_mark:
 - JavaScript: :white_check_mark:
+- Git e Github: :white_check_mark:
 - React: Meu foco atual
 - TypeScript :lock:
-
+- React Native: :lock:
 
 ### Redes Sociais
 
@@ -70,10 +72,11 @@
     <a href="https://www.instagram.com/sr.maciel?igsh=MWZqMnI0OXQ0OGo4bg==">
         <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>
     </a>
-    <a href="https://www.youtube.com/@DevXamanX">
-        <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></img>
-    </a>
         <a href="https://x.com/devXamanX">
         <img align="center" alt="instagram" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img>
     </a>
+    <a href="https://www.youtube.com/@DevXamanX">
+        <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></img>
+    </a>
+
 </div>
