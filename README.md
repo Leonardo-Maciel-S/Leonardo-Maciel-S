@@ -10,7 +10,7 @@
         Me chamo <strong>Leonardo Maciel</strong> e sou programador junior focado em desenvolvimento <strong>Front-End</strong>
     </li>
     <li>
-        Finalizando 4ª semestre de Análise e Desenvolvimento de sistemas, 
+        Cursando 5ª semestre de Análise e Desenvolvimento de sistemas, 
         atualmente trabalho oficialmente como Analista de Suporte em um provedor ISP da minha cidade, porem também desenvolvo nesse provedor. Sou responsável pelo front end de uma aplicação de sistema interno que estou desenvolvendo com um colega de trabalho utilizando React, Tailwind e algumas bibliotecas do Js.
     </li>
     <li>
