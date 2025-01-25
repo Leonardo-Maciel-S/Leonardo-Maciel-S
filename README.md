@@ -27,6 +27,8 @@
 <div style="display: flex; gap: 10px;">
     <img align="center" alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
     ></img>
+    <img align="center" alt="REACT" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+    ></img>
     <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
     ></img>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" ></img>
@@ -60,7 +62,7 @@
 - JavaScript: :white_check_mark:
 - Git e Github: :white_check_mark:
 - React: Meu foco atual
-- TypeScript :lock:
+- TypeScript: Meu foco atual
 - React Native: :lock:
 
 ### Redes Sociais
