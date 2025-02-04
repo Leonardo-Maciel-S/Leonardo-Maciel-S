@@ -11,7 +11,10 @@
     </li>
     <li>
         Cursando 5ª semestre de Análise e Desenvolvimento de sistemas, 
-        atualmente trabalho oficialmente como Analista de Suporte em um provedor ISP da minha cidade, porem também desenvolvo nesse provedor. Sou responsável pelo front end de uma aplicação de sistema interno que estou desenvolvendo com um colega de trabalho utilizando React, Tailwind e algumas bibliotecas do Js.
+        atualmente trabalho oficialmente como Analista de Suporte em um provedor ISP da minha cidade, porem também desenvolvo nesse provedor. 
+    </li>
+    <li>
+        Sou responsável pelo Front End de uma aplicação de sistema interno de gerenciamento utilizando <strong>React</strong>, <strong>Tailwind</strong> e algumas bibliotecas do Js.
     </li>
     <li>
     E ansioso pela minha primeira oportunidade focada no mundo do desenvolvimento Web</li>
@@ -27,7 +30,9 @@
 <div style="display: flex; gap: 10px;">
     <img align="center" alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
     ></img>
-    <img align="center" alt="REACT" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+    ></img>
+    <img align="center" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"
     ></img>
     <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
     ></img>
@@ -46,7 +51,7 @@
 ## Sobre mim
 
 - Atualmenete estudando React js.
-- Estou em busca de entrar no mercado de trabalho do desenvolvimento web, tenho conhecimentos intermediário em HTML, CSS, JAVASCRIPT e REACT.
+- Tenho conhecimentos intermediário em React e iniciando em TypeScript.
 - Sempre interessado em aprender mais, busco em qualquer oportunidade adquirir conhecimento tanto específico quanto de caráter geral.
 - Ótimo desempenho individual e facilidade em trabalho de grupo.
 - Aprendizagem rápida.
