@@ -36,6 +36,8 @@
     ></img>
     <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
     ></img>
+    <img align="center" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"
+    ></img>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" ></img>
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
     ></img>
@@ -86,3 +88,7 @@
     </a>
 
 </div>
+
+## Github Status 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Maciel-S&show_icons=true&theme=tokyonight)
