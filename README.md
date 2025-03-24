@@ -7,23 +7,23 @@
 
 <ul aling="right">
     <li>
-        Me chamo <strong>Leonardo Maciel</strong> e sou programador junior focado em desenvolvimento <strong>Front-End</strong>
+        Me chamo <strong>Leonardo Maciel</strong> e sou programador focado em desenvolvimento <strong>Front-End</strong>.
     </li>
     <li>
         Cursando 5ª semestre de Análise e Desenvolvimento de sistemas, 
-        atualmente trabalho oficialmente como Analista de Suporte em um provedor ISP da minha cidade, porem também desenvolvo nesse provedor. 
+        atualmente trabalho oficialmente como Analista de Redes em um provedor ISP da minha cidade e também desenvolvo nesse provedor. 
     </li>
     <li>
-        Sou responsável pelo Front End de uma aplicação de sistema interno de gerenciamento utilizando <strong>React</strong>, <strong>Tailwind</strong> e algumas bibliotecas do Js.
+        Sou responsável pelo Front End de uma aplicação de sistema interno de gerenciamento utilizando <strong>React</strong>, <strong>TypeScript</strong>, <strong>Tailwind</strong> e algumas bibliotecas do Js.
     </li>
     <li>
-    E ansioso pela minha primeira oportunidade focada no mundo do desenvolvimento Web</li>
+        Em busca de oportunidades focadas no mundo do desenvolvimento Web.
+    </li>
 
 </ul>
 
 
 </div>
-
 
 ## Tecnologias Recorrentes
 
@@ -50,14 +50,13 @@
 
 ## Sobre mim
 
-- Atualmenete estudando React js.
-- Tenho conhecimentos intermediário em React e iniciando em TypeScript.
+- Atualmente me aprofundando em React e TypeScript onde já possuo habilidades intermediárias.
 - Sempre interessado em aprender mais, busco em qualquer oportunidade adquirir conhecimento tanto específico quanto de caráter geral.
 - Ótimo desempenho individual e facilidade em trabalho de grupo.
 - Aprendizagem rápida.
 - Total interesse no crescimento do meu local de trabalho, pois se a empresa crescer eu cresço junto profissionalmente.
-- Responsável e com espirito de liderança
-- Nesse perfil posto meus projetos pessoais onde desenvolvo para aprimorar e obter novos conhecimentos profissionais 😁
+- Responsável e com espirito de liderança.
+- Nesse perfil apresento meus projetos pessoais onde desenvolvo para aprimorar e obter novos conhecimentos profissionais 😁
 
 ## Plano de Estudo
 
