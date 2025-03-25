@@ -16,9 +16,7 @@
     <li>
         Sou responsável pelo Front End de uma aplicação de sistema interno de gerenciamento utilizando <strong>React</strong>, <strong>TypeScript</strong>, <strong>Tailwind</strong> e algumas bibliotecas do Js.
     </li>
-    <li>
-        Em busca de oportunidades focadas no mundo do desenvolvimento Web.
-    </li>
+
 
 </ul>
 
@@ -56,7 +54,6 @@
 - Sempre interessado em aprender mais, busco em qualquer oportunidade adquirir conhecimento tanto específico quanto de caráter geral.
 - Ótimo desempenho individual e facilidade em trabalho de grupo.
 - Aprendizagem rápida.
-- Total interesse no crescimento do meu local de trabalho, pois se a empresa crescer eu cresço junto profissionalmente.
 - Responsável e com espirito de liderança.
 - Nesse perfil apresento meus projetos pessoais onde desenvolvo para aprimorar e obter novos conhecimentos profissionais 😁
 
@@ -67,8 +64,9 @@
 - CSS :white_check_mark:
 - JavaScript: :white_check_mark:
 - Git e Github: :white_check_mark:
-- React: Meu foco atual
-- TypeScript: Meu foco atual
+- React: :white_check_mark:
+- TypeScript: :white_check_mark:
+- Tests Unitários: Meu foco atual
 - React Native: :lock:
 
 ### Redes Sociais
