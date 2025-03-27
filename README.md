@@ -92,5 +92,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Maciel-S&show_icons=true&theme=tokyonight)
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Maciel-S&hide=PHP,blade,ejs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Maciel-S&hide=PHP,blade,ejs&theme=tokyonight)
 
