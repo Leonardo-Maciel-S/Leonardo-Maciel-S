@@ -10,7 +10,7 @@
         Me chamo <strong>Leonardo Maciel</strong> e sou programador focado em desenvolvimento <strong>Front-End</strong>.
     </li>
     <li>
-        Cursando 5ª semestre de Análise e Desenvolvimento de sistemas, 
+        Formado em Análise e Desenvolvimento de sistemas, 
         atualmente trabalho oficialmente como Analista de Redes em um provedor ISP da minha cidade e também desenvolvo nesse provedor. 
     </li>
     <li>
@@ -26,9 +26,9 @@
 ## Tecnologias Recorrentes
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
