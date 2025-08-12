@@ -7,7 +7,7 @@
 
 <ul aling="right">
     <li>
-        Me chamo <strong>Leonardo Maciel</strong> e sou programador focado em desenvolvimento <strong>Front-End</strong>.
+        Me chamo <strong>Leonardo Maciel</strong> e sou programador <strong>Front-End</strong> caminhando para o fullstack. Me aprimorando cada vez mas tanto em front-end quanto back-end.
     </li>
     <li>
         Formado em Análise e Desenvolvimento de sistemas, 
@@ -41,7 +41,7 @@
 
 ## Sobre mim
 
-- Atualmente me aprofundando em Nextjs, já possuo habilidades intermediárias em React e Typescript.
+- Atualmente me aprofundando em Nextjs, já possuo habilidades intermediárias em React, Typescript e NodeJs.
 - Aprendizado contínuo, buscando em qualquer oportunidade adquirir conhecimentos tanto específicos quanto de caráter geral.
 - Ótimo desempenho individual e facilidade em trabalho de grupo.
 - Aprendizagem rápida.
