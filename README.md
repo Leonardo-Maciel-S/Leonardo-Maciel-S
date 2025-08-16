@@ -59,7 +59,7 @@
 - TypeScript: :white_check_mark:
 - Tests Unitários: :white_check_mark:
 - NextJS: **Foco atual**
-- React Native: :lock:
+- NodeJs: **Foco atual**
 
 ### Redes Sociais
 
