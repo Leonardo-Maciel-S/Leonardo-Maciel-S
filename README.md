@@ -70,11 +70,6 @@
         </a> 
     </span>
     <span>
-        <a href="https://www.instagram.com/sr.maciel?igsh=MWZqMnI0OXQ0OGo4bg==">
-        <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>
-    </a>
-    </span>
-    <span>
          <a href="https://x.com/leo_maciel_s">
             <img align="center" alt="instagram" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img>
         </a>
