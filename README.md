@@ -74,11 +74,7 @@
             <img align="center" alt="instagram" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img>
         </a>
     </span>
-    <span>
-    <a href="https://www.youtube.com/@leonardo-maciel-s">
-        <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></img>
-    </a>
-    </span>
+
 
 </div>
 
