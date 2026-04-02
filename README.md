@@ -48,6 +48,15 @@
 - Responsável e com espirito de liderança.
 - Nesse perfil apresento meus projetos pessoais onde desenvolvo para aprimorar e obter novos conhecimentos profissionais 😁
 
+## Principal Projeto
+
+### Bookstore
+Esse projeto é um ecommerce de livros, onde para aprimorar minhas habilidades desenvolvi tanto o front-end quanto o back-end.
+
+Inicialmente era apenas um projeto de consumo básico de api baseado em um teste técnico que encontrei, mas no meio do processo decidi aprimorar e criar minha própria API e interface front-end.
+
+[![BookStore](https://github.com/user-attachments/assets/0b14c005-7415-4565-bd7f-f7e18f5dea3c)](https://frontend-ecommerce-books.vercel.app/)
+
 ## Plano de Estudo
 
 - Lógica de programação: :white_check_mark:
