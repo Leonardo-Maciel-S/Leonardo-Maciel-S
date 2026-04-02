@@ -55,6 +55,8 @@ Esse projeto é um ecommerce de livros, onde para aprimorar minhas habilidades d
 
 Inicialmente era apenas um projeto de consumo básico de api baseado em um teste técnico que encontrei, mas no meio do processo decidi aprimorar e criar minha própria API e interface front-end.
 
+**Projeto em desenvolvimento**
+
 [![BookStore](https://github.com/user-attachments/assets/0b14c005-7415-4565-bd7f-f7e18f5dea3c)](https://frontend-ecommerce-books.vercel.app/)
 
 ## Plano de Estudo
