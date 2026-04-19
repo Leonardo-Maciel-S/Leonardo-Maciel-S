@@ -1,98 +1,87 @@
-# Olá! Seja muito bem vindo 👋
-
+# Leonardo Maciel
 
 <div style='display: flex; align-items: center; flex-wrap: wrap'>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador"  min-width="200px" width="400px" align="right">
 
-<ul aling="right">
-    <li>
-        Me chamo <strong>Leonardo Maciel</strong> e sou programador <strong>Full-Stack</strong> especializado em Front-End e me aprimorando cada vez mas em Back-End.
-    </li>
-    <li>
-        Formado em Análise e Desenvolvimento de sistemas, 
-        atualmente trabalho oficialmente como Analista de Redes em um provedor ISP da minha cidade e também desenvolvo nesse provedor. 
-    </li>
-    <li>
-        Sou responsável pelo Front End de uma aplicação de sistema interno de gerenciamento utilizando <strong>React</strong>, <strong>TypeScript</strong>, <strong>Tailwind</strong> e algumas bibliotecas do Js.
-    </li>
+Desenvolvedor Full-Stack com foco em React, Next.js e Node.js.
 
+Atuo no desenvolvimento de sistemas internos em um provedor de internet (ISP), criando interfaces performáticas e soluções escaláveis para uso real.
 
-</ul>
+Experiência com aplicações completas (front-end e back-end), integração com APIs e boas práticas de arquitetura e performance.
 
 
 </div>
 
-## Tecnologias Recorrentes
+## Experiência
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Analista de Redes & Desenvolvedor – ISP**
+
+- Desenvolvimento do front-end de sistema interno de gerenciamento
+- Aplicação construída com React, TypeScript, TailwindCSS, React Query, React Router, React Hook Form, axios e etc.
+- Foco em performance, usabilidade e manutenção
+- Participação em melhorias contínuas e novas funcionalidades
+
+## Projeto em destaque
+
+### Bookstore (E-commerce de Livros)
+
+Aplicação full-stack de e-commerce desenvolvida com foco em usabilidade e escalabilidade.
+
+- Front-end com React
+- Back-end com Node.js
+- Criação de API própria
+- Integração completa entre front e back
+
+O projeto evoluiu de um teste técnico para uma aplicação completa, com regras de negócio e estrutura real de um sistema de vendas.
+
+🔗 Acesse: https://frontend-ecommerce-books.vercel.app/
+
+## Stack Principal
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Stack Secundária
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-## Sobre mim
 
-- Atualmente me aprofundando em Nextjs, já possuo habilidades intermediárias em React, Typescript e Node.
-- Aprendizado contínuo, buscando em qualquer oportunidade adquirir conhecimentos tanto específicos quanto de caráter geral.
-- Ótimo desempenho individual e facilidade em trabalho de grupo.
-- Aprendizagem rápida.
-- Responsável e com espirito de liderança.
-- Nesse perfil apresento meus projetos pessoais onde desenvolvo para aprimorar e obter novos conhecimentos profissionais 😁
+## Contato
 
-## Principal Projeto
+<a href='https://www.linkedin.com/in/leonardo-maciel-s/'>
+    <img align="center" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></img> 
+</a> 
 
-### Bookstore
-Esse projeto é um ecommerce de livros, onde para aprimorar minhas habilidades desenvolvi tanto o front-end quanto o back-end.
-
-Inicialmente era apenas um projeto de consumo básico de api baseado em um teste técnico que encontrei, mas no meio do processo decidi aprimorar e criar minha própria API e interface front-end.
-
-**Projeto em desenvolvimento**
-
-[![BookStore](https://github.com/user-attachments/assets/0b14c005-7415-4565-bd7f-f7e18f5dea3c)](https://frontend-ecommerce-books.vercel.app/)
-
-## Plano de Estudo
-
-- Lógica de programação: :white_check_mark:
-- HTML :white_check_mark:	
-- CSS :white_check_mark:
-- JavaScript: :white_check_mark:
-- Git e Github: :white_check_mark:
-- React: :white_check_mark:
-- TypeScript: :white_check_mark:
-- Tests Unitários: :white_check_mark:
-- NextJS: **Foco atual**
-- NodeJs: **Foco atual**
-
-### Redes Sociais
-
-<div style="display: flex; gap: 20px;">
-    <span>
-        <a href='https://www.linkedin.com/in/leonardo-maciel-s/'>
-            <img align="center" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></img> 
-        </a> 
-    </span>
-    <span>
-         <a href="https://x.com/leo_maciel_s">
-            <img align="center" alt="instagram" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img>
-        </a>
-    </span>
-
-
-</div>
+<!--
 
 ## Github Status 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Maciel-S&show_icons=true&theme=tokyonight)
-<br/>
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Maciel-S&hide=PHP,blade,ejs&theme=tokyonight)
+<div style='display: flex; align-items: center; flex-wrap: wrap'>
+
+<img align="center" alt="linkedin" style="display:block" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Maciel-S&show_icons=true&theme=tokyonight" ></img> 
+
+<img align="center" alt="linkedin" style="display:block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Maciel-S&hide=PHP,blade,ejs&theme=tokyonight" ></img> 
+
+</div>
+
+
+-->
+
+
+
+
+
 
